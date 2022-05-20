@@ -1,0 +1,21 @@
+li{
+    text-align: center;
+    list-style: none;
+
+}
+h1 {
+    text-align: center;
+}
+body{
+    background-image: url(./fondo.jpg);
+}
+#ConfirmarRegistro{
+    background-color: blue;
+    width: 100px;
+}
+section {
+    background-color: aqua;
+    justify-content:center;
+    text-align: center;
+    align-items: center;
+}
